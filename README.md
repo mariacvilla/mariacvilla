@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mariacvilla97@udea.edu.co**
 
-- 📄 Know about my experiences [I worked in projects about record, process and display electroencephalography and electromyography signals using open-source wearable board, Python and C. Also, I did some web pages to learning purposes.](I worked in projects about record, process and display electroencephalography and electromyography signals using open-source wearable board, Python and C. Also, I did some web pages to learning purposes.)
+- 📄 Know about my experiences: I worked in projects about record, process and display electroencephalography (EEG) and electromyography (EMG) signals using open-source wearable board, Python and C. Also, I did some web pages to learning purposes.
 
 - ⚡ Fun fact **I am a triathlon amateur**
 
