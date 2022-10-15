@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Camila</h1>
-<h3 align="center">A Bioengineer student from Colombia</h3>
+<h3 align="center">A Bioengineer from Colombia</h3>
 
 - 🌱 I’m currently learning **programming and software development in general**
 
