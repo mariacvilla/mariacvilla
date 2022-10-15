@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Camila</h1>
 <h3 align="center">A Bioengineer from Colombia</h3>
 
-- 🌱 I’m currently learning **programming and software development in general**
+- 🌱 I’m currently learning **programming and software development**
 
 - 📫 How to reach me **mariacvilla97@udea.edu.co**
 
